@@ -1,0 +1,16 @@
+* {
+  font-family: "Inter", sans-serif;
+}
+
+.car {
+  width: 600px;
+}
+
+.pressed {
+  background-color: #ff6f42;
+}
+
+.carPointA1 {
+  left: 0;
+  top: 0;
+}

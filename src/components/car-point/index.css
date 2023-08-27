@@ -1,0 +1,75 @@
+.carPoint {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  border-radius: 15px;
+  cursor: pointer;
+}
+
+.pressed {
+  background-color: #ff6f42;
+}
+
+.A1 {
+  top: 20px;
+  left: 50px;
+}
+
+.A2 {
+  top: 20px;
+  left: 220px;
+}
+
+.A3 {
+  top: 20px;
+  left: 390px;
+}
+
+.A4 {
+  top: 20px;
+  left: 560px;
+}
+
+.B1 {
+  top: 150px;
+  left: 10px;
+}
+
+.B2 {
+  top: 150px;
+  left: 120px;
+}
+
+.B3 {
+  top: 150px;
+  left: 340px;
+}
+
+.B4 {
+  top: 150px;
+  left: 550px;
+}
+.B5 {
+  top: 150px;
+  left: 600px;
+}
+
+.C1 {
+  top: 280px;
+  left: 50px;
+}
+
+.C2 {
+  top: 280px;
+  left: 220px;
+}
+
+.C3 {
+  top: 280px;
+  left: 390px;
+}
+
+.C4 {
+  top: 280px;
+  left: 560px;
+}
